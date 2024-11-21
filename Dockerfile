@@ -19,7 +19,6 @@ RUN apt-get update && apt-get install -y \
     ldap-utils \
     git \
     gcc \
-    gdb \
     ftp \
     enum4linux \
     rlwrap \
